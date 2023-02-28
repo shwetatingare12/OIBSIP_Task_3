@@ -1,0 +1,24 @@
+.btn{
+    background-color:  rgb(234, 42, 129);;
+}
+
+body{
+    padding: 12rem;
+}
+
+
+.inputSection{
+    color:   rgb(240, 72, 149);
+    font-weight: bold;
+}
+
+.resultSection{
+    background-color: rgb(240, 72, 149);
+    color: aliceblue;
+    
+}
+
+.convertBtn:hover{
+    background-color: rgb(255, 117, 179);
+    /* color: black; */
+}
